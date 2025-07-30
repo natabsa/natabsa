@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning embedded systems development
+- 🌱 I’m currently learning embedded systems and web development
 - 👯 I’m looking to collaborate on emdedded systems, system programming, games development and anything that involves C/C++ programming languages because those are the tools I'm most familiar with
 - 📫 How to reach me: natabentosandrade@gmail.com (email)
 - 😄 Pronouns: He/Him
